@@ -702,19 +702,15 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
+    QtiTelephonyService \
     datastatusnotification \
     imssettings \
-    QtiTelephonyService \
     uceShimService \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
     com.android.hotwordenrollment.common.util \
-    com.qti.dpmframework \
-    dpmapi \
-    qcrilhook \
-    qti-telephony-common \
     android.hardware.gnss@2.1-service-qti \
     vendor.qti.gnss@4.0-service \
     chargeonlymode
